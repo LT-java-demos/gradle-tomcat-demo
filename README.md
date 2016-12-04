@@ -1,4 +1,4 @@
-#gradel-tomcat-demo
+#gradle-tomcat-demo
 
 - a gradle-tomcat-demo without `web.xml` 
 
